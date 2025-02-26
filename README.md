@@ -1,0 +1,1 @@
+This project was started and finsihed back in 2023 while I was taking a database class. For the final project I was tasked with creating an app the connected with a local mariaDb to handle basic CRUD operations. 
